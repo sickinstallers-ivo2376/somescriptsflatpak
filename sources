@@ -1,0 +1,62 @@
+Pakketbeheerder controleren
+Pakketlijsten worden ingelezen... Klaar
+Boom van vereisten wordt opgebouwd        
+De statusinformatie wordt gelezen... Klaar
+Gevonden http://be.archive.ubuntu.com/ubuntu cosmic InRelease                  
+Gevonden http://be.archive.ubuntu.com/ubuntu cosmic-updates InRelease          
+Gevonden http://be.archive.ubuntu.com/ubuntu cosmic-backports InRelease        
+Gevonden http://security.ubuntu.com/ubuntu cosmic-security InRelease           
+Gevonden http://ppa.launchpad.net/alexlarsson/flatpak/ubuntu cosmic InRelease  
+0 B opgehaald in 0s (0 B/s)                                                    
+Pakketlijsten worden ingelezen... Klaar   
+Boom van vereisten wordt opgebouwd         
+De statusinformatie wordt gelezen... Klaar
+
+Updaten van de informatie over de pakketbronnen
+
+Pakketbronnen van derden uitgeschakeld 
+
+Enkele pakketbronnen van derden in uw sources.list zijn 
+uitgeschakeld. U kunt ze na de opwaardering weer inschakelen met het 
+programma ‘software-properties’ of met uw pakketbeheerder. 
+
+Druk op [ENTER] om door te gaan
+
+Ophalen:1 http://security.ubuntu.com/ubuntu disco-security InRelease [66,2 kB] 
+Ophalen:2 http://be.archive.ubuntu.com/ubuntu disco InRelease [256 kB]         
+Ophalen:3 http://be.archive.ubuntu.com/ubuntu disco-updates InRelease [66,2 kB]
+Ophalen:4 http://be.archive.ubuntu.com/ubuntu disco-backports InRelease [66,2 kB]
+Ophalen:5 http://be.archive.ubuntu.com/ubuntu disco/main amd64 Packages [995 kB]
+Ophalen:6 http://be.archive.ubuntu.com/ubuntu disco/main i386 Packages [981 kB]
+Ophalen:7 http://be.archive.ubuntu.com/ubuntu disco/main Translation-en [509 kB]
+Ophalen:8 http://be.archive.ubuntu.com/ubuntu disco/main Translation-nl [94,8 kB]
+Ophalen:9 http://be.archive.ubuntu.com/ubuntu disco/main amd64 DEP-11 Metadata [497 kB]
+Ophalen:10 http://be.archive.ubuntu.com/ubuntu disco/main DEP-11 48x48 Icons [106 kB]
+Ophalen:11 http://be.archive.ubuntu.com/ubuntu disco/main DEP-11 64x64 Icons [196 kB]
+Ophalen:12 http://be.archive.ubuntu.com/ubuntu disco/main amd64 c-n-f Metadata [29,9 kB]
+Ophalen:13 http://be.archive.ubuntu.com/ubuntu disco/restricted amd64 Packages [10,1 kB]
+Ophalen:14 http://be.archive.ubuntu.com/ubuntu disco/restricted i386 Packages [9.672 B]
+Ophalen:15 http://be.archive.ubuntu.com/ubuntu disco/restricted Translation-nl [1.128 B]
+Ophalen:16 http://be.archive.ubuntu.com/ubuntu disco/restricted Translation-en [3.980 B]
+Ophalen:17 http://be.archive.ubuntu.com/ubuntu disco/restricted amd64 c-n-f Metadata [340 B]
+Ophalen:18 http://be.archive.ubuntu.com/ubuntu disco/universe amd64 Packages [9.102 kB]
+Ophalen:19 http://be.archive.ubuntu.com/ubuntu disco/universe i386 Packages [9.047 kB]
+Ophalen:20 http://be.archive.ubuntu.com/ubuntu disco/universe Translation-nl [183 kB]
+Ophalen:21 http://be.archive.ubuntu.com/ubuntu disco/universe Translation-en [5.260 kB]
+Ophalen:22 http://be.archive.ubuntu.com/ubuntu disco/universe amd64 DEP-11 Metadata [3.532 kB]
+Ophalen:23 http://be.archive.ubuntu.com/ubuntu disco/universe DEP-11 48x48 Icons [2.751 kB]
+Ophalen:24 http://be.archive.ubuntu.com/ubuntu disco/universe DEP-11 64x64 Icons [8.386 kB]
+Ophalen:25 http://be.archive.ubuntu.com/ubuntu disco/universe amd64 c-n-f Metadata [278 kB]
+Ophalen:26 http://be.archive.ubuntu.com/ubuntu disco/multiverse i386 Packages [147 kB]
+Ophalen:27 http://be.archive.ubuntu.com/ubuntu disco/multiverse amd64 Packages [160 kB]
+Ophalen:28 http://be.archive.ubuntu.com/ubuntu disco/multiverse Translation-en [114 kB]
+Ophalen:29 http://be.archive.ubuntu.com/ubuntu disco/multiverse Translation-nl [13,1 kB]
+Ophalen:30 http://be.archive.ubuntu.com/ubuntu disco/multiverse amd64 DEP-11 Metadata [51,3 kB]
+Ophalen:31 http://be.archive.ubuntu.com/ubuntu disco/multiverse DEP-11 48x48 Icons [10,8 kB]
+Ophalen:32 http://be.archive.ubuntu.com/ubuntu disco/multiverse DEP-11 64x64 Icons [228 kB]
+Ophalen:33 http://be.archive.ubuntu.com/ubuntu disco/multiverse amd64 c-n-f Metadata [9.376 B]
+43,2 MB opgehaald in 6s (1.094 kB/s)                                           
+
+
+
+

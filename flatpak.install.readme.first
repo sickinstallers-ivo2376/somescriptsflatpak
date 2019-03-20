@@ -1,0 +1,56 @@
+
+Ubuntu Quick Setup
+
+Follow these simple steps to start using Flatpak
+
+    Install Flatpak
+
+    To install Flatpak on Ubuntu 18.10 (Cosmic Cuttlefish), simply run:
+
+
+          
+
+ sudo apt install flatpak
+    
+
+With older Ubuntu versions, the official Flatpak PPA is the recommended way to install Flatpak. To install it, run the following in a terminal:
+
+
+      
+
+ sudo add-apt-repository ppa:alexlarsson/flatpak
+      
+
+ sudo apt update
+      
+
+ sudo apt install flatpak
+    
+
+Install the Software Flatpak plugin
+
+The Flatpak plugin for the Software app makes it possible to install apps without needing the command line. To install, run:
+
+
+      
+
+ sudo apt install gnome-software-plugin-flatpak
+    
+
+Add the Flathub repository
+
+Flathub is the best place to get Flatpak apps. To enable it, run:
+
+
+      
+
+ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+    
+
+Restart
+
+To complete setup, restart your system. Now all you have to do is install some apps!
+
+
+
+
